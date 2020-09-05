@@ -1,0 +1,20 @@
+# ODS Query Configuration
+sql_path: "sql/"
+ods_schema: ""
+
+# Phoenix / EDS Configuration
+phoenix_zk_url: ""
+eds_schema: ""
+
+# Staging Configuration
+staging_schema: ""
+
+# JDBC Configuration
+jdbc_type: ""
+jdbc_host: ""
+jdbc_port: ""
+jdbc_schema: ""
+jdbc_instance: ""
+jdbc_sid: ""
+jdbc_user: ""
+jdbc_password: ""
