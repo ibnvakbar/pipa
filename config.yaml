@@ -1,10 +1,6 @@
 # ODS Query Configuration
 sql_path: "sql/"
-ods_schema: ""
-
-# Phoenix / EDS Configuration
-phoenix_zk_url: ""
-eds_schema: ""
+source_schema: ""
 
 # Staging Configuration
 staging_schema: ""
